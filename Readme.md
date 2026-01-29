@@ -233,24 +233,6 @@ API Endpoints Summary
 ✔ Assignment requirements fully met
 ## API Testing Screenshots (Postman)
 
-### 🔐 Register API
-![Register API](images/Register.png)
-
-### 🔑 Login API
-![Login API](images/Login.png)
-
-### 👤 View Profile API
-![Profile API](images/profile.png)
-
-### ❤️ Express Interest API
-![Interest API](images/interest.png)
-
-### 🤝 Connections API
-![Connections API](images/connection.png)
-
-### 🗑️ Remove Connection API
-![Remove Connection API](images/connection_remove.png)
-
 
 ---
 
