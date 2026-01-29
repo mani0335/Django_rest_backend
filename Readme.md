@@ -1,5 +1,11 @@
-Project Overview :-  Mutual Connection System (Backend)
------------------
+# 🔗 Mutual Connection System (Backend)
+
+A secure backend system built with **Django**, **Django REST Framework**, and **JWT Authentication** that enables users to express interest, form mutual connections, and view profiles conditionally.
+
+This system ensures:
+- 🔐 Secure access using JWT
+- 🤝 Mutual consent before connections
+- 👁️ Controlled profile visibility
 
 This project implements a Mutual Connection System backend using Django + Django REST Framework + JWT authentication.
 Users can register, log in, create profiles, express interest in other users, form mutual connections, view connections conditionally, and remove connections.
