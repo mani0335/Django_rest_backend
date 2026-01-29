@@ -1,4 +1,4 @@
-Project Overview :-
+Project Overview :-  Mutual Connection System (Backend)
 -----------------
 
 This project implements a Mutual Connection System backend using Django + Django REST Framework + JWT authentication.
