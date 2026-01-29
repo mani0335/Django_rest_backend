@@ -250,3 +250,79 @@ API Endpoints Summary
 
 ### 🗑️ Remove Connection API
 ![Remove Connection API](images/connection_remove.png)
+
+
+---
+
+## 🛠️ Django Admin Panel
+
+The Django Admin Panel is used for **backend management and monitoring** of the Mutual Connection System.  
+It allows the administrator to securely manage users, profiles, and mutual connections.
+
+Access URL:  http://127.0.0.1:8000/admin/
+
+
+
+Only **superusers** are allowed to access the admin panel.
+
+---
+
+### 🧭 Admin Dashboard
+
+The admin dashboard provides a centralized view of all registered modules such as:
+- Users
+- Profiles
+- Connections
+
+It helps administrators quickly navigate and manage backend data.
+
+![Admin Dashboard](images/admin_dashboard.png)
+
+---
+
+### 👥 User Management
+
+This section allows the admin to:
+- View all registered users
+- Verify email addresses
+- Check staff and active status
+- Manage user accounts securely
+
+![Admin Users](images/admin_users.png)
+
+---
+
+### 👤 Profile Management
+
+Each user has a dedicated profile linked using a One-to-One relationship.
+Admins can view and manage profile information such as:
+- Name
+- Age
+- Category
+- Bio
+
+![Admin Profiles](images/admin_profiles.png)
+
+---
+
+### 🤝 Connection Management
+
+This section displays all **mutual connections** between users.
+Only users with **mutual interest** are marked as **accepted connections**.
+
+Admins can:
+- View sender → receiver relationships
+- Verify connection status
+- Remove connections if required
+
+![Admin Connections](images/admin_connection.png)
+
+---
+
+### 🔐 Admin Security
+
+- Admin panel access is restricted to superusers only
+- Prevents unauthorized access
+- Ensures secure backend data management
+
+---
