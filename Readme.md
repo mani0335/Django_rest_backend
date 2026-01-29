@@ -195,14 +195,25 @@ API Endpoints Summary
 | GET    | `/connections/`            | List connections  |
 | POST   | `/connections/remove/{id}` | Remove connection |
 
-
 ---
-![Register API](../images/Register.png)
-![Login API](../images/Login.png)
-![Profile API](../images/profile.png)
-![Interest API](../images/interest.png)
-![Connections API](../images/connection_1.png)
-![Connections API](../images/connection_2.png)
+
+## 🖼️ API Testing Screenshots (Postman)
+
+### 🔐 Register API
+![Register API](images/Register.png)
+
+### 🔑 Login API
+![Login API](images/Login.png)
+
+### 👤 View Profile API
+![Profile API](images/profile.png)
+
+### ❤️ Express Interest API
+![Interest API](images/interest.png)
+
+### 🤝 Connections API
+![Connections API](images/connection_1.png)
+![Connections API](images/connection_2.png)
 
 
 
